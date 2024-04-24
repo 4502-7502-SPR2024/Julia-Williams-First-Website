@@ -1,6 +1,37 @@
 /* font-family: 'bree serif', serif; 
 font-family: 'montserrat', sans serif; */
 
+<style> 
+			.white-text {
+			color: white; 
+			} 
+
+			 
+			.bree-serif-regular {
+			font-family: "bree serif", serif; 
+			font-weight: 400;
+			font-style: normal; 
+			}
+
+			
+			.roboto-light {
+			font-family: "roboto" . sans-serif; 
+			font-weight: 300; 
+			font-style: normal;
+			}
+
+			.merriweather-regular { 
+			font-family: "merriweather" , serif; 
+			font-weight: 400; 
+			font-style: normal;
+			}
+
+			.lavender-background {
+			background-color: lavender; 
+			
+			}
+			
+
 .skip-link { 
 position: absolute; 
 width: 1px;
