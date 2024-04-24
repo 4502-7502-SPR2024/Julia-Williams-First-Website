@@ -32,6 +32,14 @@ font-family: 'montserrat', sans serif; */
 			}
 			
 
+		.index-img img {
+
+		 width: 100%; 
+		 
+
+
+		}
+
 .skip-link { 
 position: absolute; 
 width: 1px;
