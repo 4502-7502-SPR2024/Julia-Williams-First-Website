@@ -34,8 +34,12 @@ font-family: 'montserrat', sans serif; */
 
 		.index-img img {
 
-		 width: 100%; 
-		 
+		 max-width: 500px;
+		 display: flex;
+		 justify-content: center;
+		 margin: auto;
+
+
 
 
 		}
@@ -99,6 +103,17 @@ font-weight: bold;
 font-style: italic;
 text-decoration: none;
 }
+
+h1 { 
+
+	font-size: 2rem;
+	color: #FFF;
+	background: #gray;
+	text-align: center;
+	text-transform: capitalize;
+
+ }
+
 
 h1, h2, h3 {
 font-family: 'monoserrat', sans serif;
