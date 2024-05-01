@@ -124,13 +124,7 @@ list-style-type: none;
 font-style: italic;
 }
 
-nav li nav li a {
-width: 100%; 
-text-align: center; 
-display: flex;
-justify-content: center; 
-align-items: center; 
-}
+
 
 .active {
 background-color: #800080;
