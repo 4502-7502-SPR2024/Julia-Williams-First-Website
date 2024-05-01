@@ -74,6 +74,12 @@ h1, h2, h3 {
 	font-family: 'roboto' , sans-serif; 
 	margin: 1
 }
+.leadtitle 
+
+
+{
+text-align: center
+}
 
 h2 {
 	font-weight: 500;
@@ -102,6 +108,17 @@ nav li, nav li a {
 	color: #FFF;
 	padding: 2rem; 
 }
+
+
+		.index-img img {
+
+		 max-width: 500px;
+		 display: flex;
+		 justify-content: center;
+		 margin: auto;
+
+
+		}
 
 /*footer section*/
 footer {
