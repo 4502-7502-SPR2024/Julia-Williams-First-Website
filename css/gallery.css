@@ -22,8 +22,8 @@ body {
 nav {
 	
 			max-width: 800px; 
-			margin: auto; 
-			font-size:1.5em;
+			margin: 3; 
+			font-size:4em;
 
 }
 
@@ -49,7 +49,7 @@ h1 {
 	
 		font-famoly: 'Roboto' , sans-serif; 
 		font-weight: 900;
-		margin: 1rem;
+		margin: 4rem;
 
 }
 

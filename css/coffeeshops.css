@@ -78,8 +78,14 @@ a {
 h1, h2, h3 {
 	font-family: 'roboto' , sans-serif; 
 	margin: 1
+
+
+}
+
+
 }
 .leadtitle 
+
 
 
 {
@@ -166,13 +172,13 @@ footer {
 }
 
 address {
-	font-style: noraml;
+	font-style: normal;
 }
 
 /*figure and .gallery-image styles*/
 
 .gallery-image {
-	margin-bloxk-start: 0;
+	margin-block-start: 0;
 	margin-block-end: 0;
 	margin-inline-start: 0;
 	margin-inline-end: 0;
