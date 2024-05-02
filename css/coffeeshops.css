@@ -188,7 +188,7 @@ address {
 .button_holder {
 	display: flex; 
 	flex-direction: row;
-	justify-content: spcae-between;
+	justify-content: space-around;
 	margin-top: 1.5rem;
 }
 
@@ -232,7 +232,7 @@ button {
 	}
 
 	nav li {
-	width: 50%;
+	width: 40;
 	}
  a:visited {
 	color:#FFF;
