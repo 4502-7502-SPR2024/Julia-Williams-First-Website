@@ -68,14 +68,14 @@ font-size: 20px;
 
 body {
 margin: 0px;
-background-color: #800080;
+background-color: grey;
 font-family: 'bree serif', serif; 
 }
 
 main {
 width: 90%;
 max-width: 1000px;
-background: #D3D3D3;
+background: #grey;
 border-radius: 1rem; 
 padding: 2rem; 
 box-sizing: border-box; 
@@ -185,8 +185,8 @@ justify-content: space-between;
 margin-tup: 1rem;
 }
 
-button [
-background-color: #800080;
+.button {
+background-color:#800080;
 border: none;
 color: #FFF;
 text-align: center;

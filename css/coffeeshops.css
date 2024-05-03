@@ -20,6 +20,9 @@ font-family: 'Roboto' , sans-serif; */
 	font-size: 4rem;
 }
 
+.leadtitle {
+	color: grey;
+}
 
 html {
 font-size: 30px;
@@ -36,7 +39,7 @@ main {
 	max-width: 1000px;
 	background: #COCOCO;
 	border-radius: 3rem;
-	padding: 2rem 3rem;
+	padding: 1rem 1rem;
 	box-sizing: border-box;
 	margin: 2rem auto;
 }
@@ -77,7 +80,8 @@ a {
 
 h1, h2, h3 {
 	font-family: 'roboto' , sans-serif; 
-	margin: 1
+	margin: 1;
+	color: grey;
 }
 .leadtitle 
 
@@ -90,6 +94,7 @@ text-align: center
 h2 {
 	font-weight: 500;
 	font-style: normal;	
+
 }
 
 li {
