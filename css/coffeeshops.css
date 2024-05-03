@@ -209,6 +209,13 @@ address {
 
 /*figure and .gallery-image styles*/
 
+.gallerydescription p {
+	color: white !important;
+
+}
+
+
+
 .gallery-image {
 	margin-bloxk-start: 0;
 	margin-block-end: 0;
