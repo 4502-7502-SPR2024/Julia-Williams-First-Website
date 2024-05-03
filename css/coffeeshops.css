@@ -99,7 +99,13 @@ h2 {
 
 }
 
-p {
+Home-p{
+font-weight: 500;
+font-style: normal;
+color:grey;
+}
+
+gallery-p {
 font-weight: 500;
 font-style: normal;
 color:white;
