@@ -150,6 +150,21 @@ nav li, nav li a {
 		 margin: auto;
 }
 
+.musiclead { 
+	max-width: 30rem;
+		display: flex;
+		 justify-content: center;
+		 margin: auto;
+		 flex-flow: column;
+
+ }
+
+.musiclist {
+	margin: 2rem;
+	padding: 1rem;
+	text-align: center;
+}
+
 
 /*footer section*/
 footer {
