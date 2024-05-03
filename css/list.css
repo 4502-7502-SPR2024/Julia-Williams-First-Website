@@ -124,6 +124,12 @@ font-weight: 700;
 font-style: italic;
 }
 
+p {
+font-weight: 500;
+font-style: normal;
+color: grey;
+}
+
 li {
 list-style-type: none;
 font-style: italic;
@@ -145,8 +151,8 @@ padding: 1rem;
 
 /*footer section*/
 footer {
-background: #FFF;
-color: #800080l;
+background:black;
+color:white;
 width: 100%;
 margin: 0;
 padding: 1rem;

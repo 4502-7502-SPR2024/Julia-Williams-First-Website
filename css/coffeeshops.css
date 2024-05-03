@@ -20,7 +20,7 @@ font-family: 'Roboto' , sans-serif; */
 	font-size: 4rem;
 }
 
-.leadtitle {
+.headline {
 	color: grey;
 }
 
@@ -32,6 +32,8 @@ body {
 	margin: 0px;
 	background-color: #CCCCFF;
 	font-family: 'playfair Display' , serif;
+	color:grey;
+
 }
 
 main {
@@ -81,7 +83,7 @@ a {
 h1, h2, h3 {
 	font-family: 'roboto' , sans-serif; 
 	margin: 1;
-	color: grey;
+	color:grey;
 }
 .leadtitle 
 
@@ -95,6 +97,12 @@ h2 {
 	font-weight: 500;
 	font-style: normal;	
 
+}
+
+p {
+font-weight: 500;
+font-style: normal;
+color:white;
 }
 
 li {
@@ -136,8 +144,8 @@ nav li, nav li a {
 
 /*footer section*/
 footer {
-	background: #FFF; 
-	color: #000;
+	background:black; 
+	color:white;
 	width: 100%;
 	margin: 0;
 	padding 2rem; 
