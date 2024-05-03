@@ -105,11 +105,6 @@ font-style: normal;
 color:grey;
 }
 
-gallery-p {
-font-weight: 500;
-font-style: normal;
-color:white;
-}
 
 li {
 	list-style-type: none;
@@ -121,12 +116,12 @@ ol li {
 }
 
 nav li, nav li a {
-	width: 100%
+	width: 100%;
 	text-align: center;
 	display: flex; 
 	justify-content: center; 
 	align-items: center; 
-		background-color: #COCOCO;
+	background-color: #COCOCO;
 	color: #FFF;
 	padding: 0rem; 
 }
@@ -249,6 +244,7 @@ button {
 	display: flex; 
 	flex-direction: row;
 	flex-wrap: wrap;
+	justify-content: space-between;
 	}
 
 	nav li {
