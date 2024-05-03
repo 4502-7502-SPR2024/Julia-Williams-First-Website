@@ -50,9 +50,9 @@ main {
 nav {
 	color: #FFF;
 	background-color: #COCOCO;
-	padding: 0;
+	padding-right: 2rem;
 	display: block;
-	margin: 0;
+	margin: auto;
 	border-bottom: 2px solid #FFF;	
 }
 
