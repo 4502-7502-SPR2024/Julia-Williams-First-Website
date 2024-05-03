@@ -121,7 +121,7 @@ nav li, nav li a {
 	display: flex; 
 	justify-content: center; 
 	align-items: center; 
-	background-color: #COCOCO;
+	background-color: white;
 	color: #FFF;
 	padding: 0rem; 
 }
@@ -165,9 +165,7 @@ nav li, nav li a {
 	text-align: center;
 }
 
-.addresses p {
-	color: white;
-}
+
 
 
 /*footer section*/
@@ -291,12 +289,10 @@ button {
 
 
  a:visited {
-	color:grey;
+	color: white;
 }
 
-a:addresses {
-	color:white;
-}
+
 
 
 	}
